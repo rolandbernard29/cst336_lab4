@@ -1,0 +1,37 @@
+
+.jumbotron {
+    padding:2px;
+}
+
+body {
+    text-align: center;
+    padding: 20px;
+    background-color:red;
+    
+}
+
+.p {
+   display: inline;
+   font-weight:900;
+}
+
+.container {
+  font-weight: Bold; 
+  padding: 1px;
+  border-radius: 4px;
+  margin-top: 12px;
+  margin-bottom: 2px;
+  background: lightblue;
+}
+
+
+
+.h1 {
+  size: strong; 
+  font-size: 20px;
+  padding: 4px;
+  border-radius: 4px;
+  margin-top: 12px;
+  margin-bottom: 12px;
+  background: lightblue;
+}
