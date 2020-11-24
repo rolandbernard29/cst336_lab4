@@ -17,10 +17,8 @@ app.get("/venus", function(req, res) {
 app.get("/earth", function(req, res) {
     res.render("earth.html");
 });
-//main html
 app.get("/index", function(req, res) {
     res.render("index.html");
-    
 });
 //starting server 
 app.listen(process.env.PORT, process.env.IP, function() {
